@@ -1,0 +1,18 @@
+title: "A home on the web for Michael Corlett - Illustrator and Digital Designer"
+email: macorlett@gmail.com
+description: Michael Corlett is a freelance Illustrator and Digital Designer from New Zealand
+timezone: Pacific/Auckland
+twitter: macorlett
+dribbble: macorlett
+
+# baseurl:"http://michaelcorlett.me"
+# url: "http://michaelcorlett.me"
+url: "http://127.0.0.1:4000"
+
+# Build settings
+future: false
+permalink: pretty
+markdown: kramdown
+excerpt_separator: "<!-- excerpt ends -->"
+sass:
+style: :compressed
